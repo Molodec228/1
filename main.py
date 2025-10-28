@@ -7,3 +7,6 @@ def print_hi(name):
 
 def print_bebebe():
     print("bebebe")
+
+def print_hello():
+    print("hello")
